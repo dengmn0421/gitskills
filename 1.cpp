@@ -10,7 +10,7 @@ using namespace std;
 class A{
 public:
     bool fun(char i){
-        cout<<"just for test."<<" "<<i<<endl;
+        cout<<"Your enter is:"<<" "<<i<<endl;
     }
 };
 
